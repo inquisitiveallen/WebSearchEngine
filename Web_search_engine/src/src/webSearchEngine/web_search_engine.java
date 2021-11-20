@@ -1,4 +1,4 @@
-package src.searchEngineSpellChecker;
+package src.webSearchEngine;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -10,10 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Stream;
-import src.searchEngineSpellChecker.*;
 
-import src.searchEngineSpellChecker.Sequences;
-import src.searchEngineSpellChecker.SpellCheck;
+import src.webSearchEngine.*;
 public class web_search_engine {
 	
 	public void autoSuggestion(String userInput) {

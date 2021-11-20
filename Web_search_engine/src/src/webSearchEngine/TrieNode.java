@@ -1,4 +1,4 @@
-package src.searchEngineSpellChecker;
+package src.webSearchEngine;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

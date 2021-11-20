@@ -1,11 +1,11 @@
-package src.searchEngineSpellChecker;
+package src.webSearchEngine;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import src.searchEngineSpellChecker.Sequences;
+import src.webSearchEngine.Sequences;
 
 
 public class SpellCheck {

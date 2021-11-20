@@ -1,4 +1,4 @@
-package src.searchEngineSpellChecker;
+package src.webSearchEngine;
 
 
 import java.io.IOException;
